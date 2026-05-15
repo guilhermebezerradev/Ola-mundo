@@ -1,1 +1,2 @@
 cheque o seguinte arquivo para obter informaçoes
+este arquivo e repositório é um teste para as funcionalidades do Github Desktop, do VS Code e estudos acerca da utilização do Git e Github como ferramneta para um desenvolvedor iniciante
